@@ -1,1 +1,11 @@
-div{border-style: dashed;width: 200; height: 200;}
+body{
+    background-color: blanchedalmond;
+    padding-left: 40px;
+    padding-bottom: 100px;
+    border:dashed darkred 20px;
+    margin: 40px;
+}
+.div{
+    height: 400px;
+    width: 300px;
+}
