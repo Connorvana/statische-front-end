@@ -1,0 +1,10 @@
+body {
+    background-color: blueviolet;
+}
+
+a{
+    color: aqua;
+}
+a:hover{
+    color: azure;
+}
