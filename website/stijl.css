@@ -1,5 +1,5 @@
 body {
-    background-color: paleturquoise;
+    background-color: rgb(136, 234, 17);
 }
 
 a{
@@ -15,10 +15,10 @@ text-align: center;}
 h2{
     color: white;
 }
-h3{color: gold;}
+h3{color: rgb(16, 32, 203);}
 
 html{
-    color: orange;
+    color: rgb(203, 18, 144);
 }
 
 body{
