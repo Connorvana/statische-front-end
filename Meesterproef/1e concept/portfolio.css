@@ -9,6 +9,7 @@
     background: url(/images/dark\ light.jpeg);
     background-size: cover;
     background-position: center;
+    
     }
     nav{
         display: flex;
@@ -79,6 +80,7 @@ line-height: 50px;
 
 .witregel{
     margin-top: -165px;
+    margin-left: 35px;
 }
 
 

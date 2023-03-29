@@ -68,10 +68,9 @@
         transition: .4s;
       }
       .Kop1{
-        color:  rgb(194, 194, 194);
+        color: white;
         text-align: center;
-        
-      }
+        }
 
 
   h3{
@@ -135,4 +134,6 @@
     border-top: 10px;
     border-color: rgb(208, 129, 218);
     }
+
+ 
   
