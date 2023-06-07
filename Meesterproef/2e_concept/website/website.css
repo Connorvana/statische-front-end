@@ -43,7 +43,7 @@ html{
 
 
 .portfolio{
-    margin-left: -20px;
+    margin-left: 2px;
     background-color: rgba(25, 27, 26, 0.689);
     font-weight: bold;
     text-align: center;
@@ -101,9 +101,8 @@ html{
 
 .btn{
     padding: 10px 35px;
-    background-color: transparent;
-    border: 1px solid white;
-    color: white;
+    border: 1px solid rgb(234, 227, 227);
+    color: rgb(12, 10, 10);
     outline: none;
     transition: .6s ease;
 }
@@ -112,13 +111,24 @@ html{
     cursor: pointer;
     background-color: rgb(21, 17, 17);
     color: black;
-    box-shadow: 0 0 5px rgb(235, 230, 230), 0 0 10px, 0 0 15px rgb(8, 7, 7);
-    font-weight: bold;
+    box-shadow: 0 0 5px rgb(231, 225, 225), 0 0 10px, 0 0 15px rgb(8, 7, 7);
+    font-weight: initial;
+
 }
 
+
+
+
 .contact{
-    color: white;
+    color: rgb(248, 244, 244);
     text-decoration: none;
+    
+}
+
+.contact:hover{
+    color: rgb(238, 147, 241);
+    transition: .6 ease;
+    
 }
 
 
@@ -130,13 +140,13 @@ html{
     justify-content: center;
     align-items: center;
     color: rgb(21, 16, 16);
-    
+    margin-top: 190px;
 }
 .headings{
     font-family: initial;
     font-size:3rem;
     text-align: center;
-    margin: 40px 0px;
+    margin: 180px 0px;
     }
 .headings span{
     color: rgb(156, 80, 227);
@@ -148,10 +158,11 @@ html{
 #pic img{
     width: 350px;
     height: 400px;
-    margin-top: 150px;
+    margin-top: 50px;
     margin-right: 20px;
     border: rgb(218, 95, 224) solid;
     border-radius: 5px;
+    margin-top: 150px;
      
 }
  
@@ -161,6 +172,7 @@ html{
     flex-direction: column;
     text-align: justify;
     padding: 10px;
+    
     }
 
 #intro h2{
@@ -177,6 +189,7 @@ html{
     align-items: center;
     padding: 20px;
     padding-bottom: 40px;
+    margin-top: 1000px;
     
 }
 
@@ -270,6 +283,20 @@ html{
     box-shadow: 0 0 10px white;
 }
 
+.navbar a.icon {
+    background-color: transparent;
+    display: block;
+    position: absolute;
+    right: 20px;
+    top: 0;
+    border-radius: 2px;
+    color: aliceblue;
+    
+    
+  }
+
+  
+  
 
 
 

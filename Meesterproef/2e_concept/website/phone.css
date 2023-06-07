@@ -1,0 +1,58 @@
+#home{
+    height: 820px;
+}
+
+.headings{
+   font-size: 1.7rem ; 
+}
+
+#pic img{
+    width: 175px;
+    height: 175px;
+    margin-top: 500px;
+}
+
+#intro h2{ 
+    font-size: 1.5rem;
+}
+
+.gallerij img{
+        width: 250px;
+        height: 150px;
+        margin: 10px;
+}
+
+.input{
+    width: 80%;
+}
+
+#msg{
+    width: 70px; ;
+}
+
+
+  
+  .portfolio{
+    background-color: #2c3532;
+    color: white;
+  }
+
+  .navbar a.icon {
+    background-color: transparent;
+    display: block;
+    position: absolute;
+    right: 20px;
+    top: 0;
+    border-radius: 2px;
+    color: aliceblue;
+    
+    
+  }
+.portfolio{
+  margin-left: 1px;
+}
+
+
+
+
+
